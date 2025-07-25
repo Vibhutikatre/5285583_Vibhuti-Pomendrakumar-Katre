@@ -1,7 +1,13 @@
+LTTS Training Tasks/Assessments:
+
+git clone : Suppose, you have to do this once
 git init
-git add .
+git pull : Every morning once you reach the office
+git add . : Generally, after break time
+git status
 git commit -m "Initial commit"
-git push origin main
+git log
+git push origin main : As you leave the office
 
 
 # Some git commands and their use:
