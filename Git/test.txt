@@ -2,3 +2,13 @@ git init
 git add .
 git commit -m "Initial commit"
 git push origin main
+
+
+# Some git commands and their use:
+git init - Initialize a new git repository
+git status - Check current changes
+git add . - Adds all the changes
+git commit -m "msg" - Commit added files
+git log - View commit history
+git merge - Merge branches 
+git push origin main - Push changes to GitHub
