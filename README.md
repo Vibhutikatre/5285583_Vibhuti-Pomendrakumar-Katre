@@ -2,4 +2,4 @@
 
 ![Agile Certificate](SDLC/5285583_VibhutiPomendrakumarKatre.png)
 
-[Download Git Certificate](Git/5285583_VibhutiPomendrakumarKatre.pdf)
+![Git Certificate](Git/5285583_VibhutiPomendrakumarKatre.jpg)
