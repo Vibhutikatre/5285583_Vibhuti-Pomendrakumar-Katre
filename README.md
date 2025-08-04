@@ -4,5 +4,10 @@
 
 ![Git Certificate](Git/5285583_VibhutiPomendrakumarKatre.jpg)
 
-# History File Screenshots:
-The screenshots of the history file are available inside the linux folder of this repository.
+
+![C Beginner Certificate]
+(C programming/5285583_VibhutiPomendrakumarKatre_C_Beginner.jpg)
+
+![C Intermediate Certificate]
+(C programming/5285583_VibhutiPomendrakumarKatre_C_Intermediate.jpg)
+
